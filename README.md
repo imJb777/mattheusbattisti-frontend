@@ -1,1 +1,1 @@
-uma pagina tributi do fluminense bem basica com apenas html e css.
+uma pagina tributo do fluminense bem basica com apenas html e css.
