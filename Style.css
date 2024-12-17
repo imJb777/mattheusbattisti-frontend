@@ -1,0 +1,72 @@
+html{
+    font-family: helvetica;
+  background-color:  #fff;
+
+}
+
+.container{
+    max-width: 1100px;
+    background-color: #ddd;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+.bold{
+    font-weight: bold;
+}
+
+/* header */
+
+.header{
+    text-align: center;
+}
+.main-tittle{
+    font-size: 40px;
+}
+.main-paragraph{
+    font-style: italic;
+}
+featured-image{
+    margin-top: 30px;
+}
+
+/* Campanha */
+
+.campaign-container{
+    padding: 25px 0px;
+    margin: 25px 0px;
+    border-top: 1px dashed green;
+    border-bottom: 1px dashed green;
+}
+.quotes-container{
+    background-color: #ddd;
+    padding: 30px;
+}
+.quotes-container blockquote{
+    font-weight: bold;
+    font-size: 30px;
+}
+.quotes-container p{
+    font-style: italic;
+}
+.lastgame-container{
+    padding: 25px 0px;
+    margin: 25px 0px;
+    border-top: 1px dashed red;
+    border-bottom: 1px dashed red ;
+}
+.curiosities-container{
+   
+    padding: 25px 0px;
+    margin: 25px 0px;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+
+}
+.curiosities-container li{
+    height: 35px;
+}
+.img-bold{
+    font-weight: bold;
+    text-align: center;
+}
